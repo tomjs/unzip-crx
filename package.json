@@ -1,6 +1,6 @@
 {
   "name": "@tomjs/unzip-crx",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "unzip chrome extension files",
   "keywords": [
     "tomjs",
