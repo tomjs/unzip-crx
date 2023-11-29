@@ -1,6 +1,6 @@
 # @tomjs/unzip-crx
 
-![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) ![npm package minimized gzipped size (scoped version select exports)](https://img.shields.io/bundlejs/size/@tomjs/unzip-crx)
+![npm](https://img.shields.io/npm/v/%40tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/%40tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/%40tomjs%2Funzip-crx)
 
 > Unzip chrome extension files
 
