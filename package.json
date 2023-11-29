@@ -50,7 +50,9 @@
     "prepare": "husky install",
     "prepublishOnly": "npm run build && np --any-branch --no-yarn --yolo --no-publish --message \"chore: release v%s\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "jszip": "^3.10.1"
+  },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
     "@tomjs/commitlint": "^2.0.3",

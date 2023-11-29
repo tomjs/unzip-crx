@@ -6,6 +6,5 @@ export default defineConfig({
   target: ['es2017', 'node14'],
   clean: true,
   dts: true,
-  sourcemap: false,
   splitting: true,
 });
