@@ -1,6 +1,6 @@
 # @tomjs/unzip-crx
 
-![npm](https://img.shields.io/npm/v/%40tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/%40tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/%40tomjs%2Funzip-crx)
+[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://www.paka.dev/badges/v0/cute.svg)](https://www.paka.dev/npm/@tomjs/unzip-crx)
 
 > 解压 Chrome 插件文件
 
@@ -57,6 +57,11 @@ unzip(crxFile).then(() => {
   console.log('Successfully unzipped your crx file..');
 });
 ```
+
+## 文档
+
+- [paka.dev](https://paka.dev) 提供的 [API文档](https://paka.dev/npm/@tomjs/unzip-crx).
+- [unpkg.com](https://www.unpkg.com/) 提供的 [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts).
 
 ## API
 
