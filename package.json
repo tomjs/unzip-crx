@@ -41,7 +41,6 @@
   },
   "scripts": {
     "dev": "tsup --watch",
-    "start": "tsx ./src/index.ts",
     "build": "tsup",
     "test": "npm run build && jest",
     "test:node": "npm run build && nve \"20,18,16,14\" npm exec jest",
