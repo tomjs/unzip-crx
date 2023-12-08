@@ -3,11 +3,8 @@
   "version": "1.0.2",
   "description": "unzip chrome extension files",
   "keywords": [
-    "back-end",
-    "backend",
-    "unzip-crx",
     "unzip",
-    "zip",
+    "unzip-crx",
     "crx",
     "chrome",
     "extension",

@@ -2,6 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://www.paka.dev/badges/v0/cute.svg)](https://www.paka.dev/npm/@tomjs/unzip-crx)
 
+**English** | [中文](./README.zh_CN.md)
+
 > Unzip chrome extension files
 
 If you want to unzip [Chrome extension files](https://developer.chrome.com/extensions) (\*.crx) you might have the problem that your unzip lib claims that the file header is malformed. This is due to that Chrome [adds some extra information](https://developer.chrome.com/extensions/crx) for identifying crx files. `unzip-crx` handles those additional headers and unzips as usual.
@@ -9,8 +11,6 @@ If you want to unzip [Chrome extension files](https://developer.chrome.com/exten
 This library is based on [Peerigon](https://github.com/peerigon)'s [unzip-crx](https://github.com/peerigon/unzip-crx), which makes simple modifications and adds `esm` and `cjs` support.
 
 And this [unzip-crx](https://github.com/peerigon/unzip-crx) is highly inspired by [crx2ff](https://github.com/abarreir/crx2ff) from [abarreir](https://github.com/abarreir) and [crxviewer](https://github.com/Rob--W/crxviewer) from [Rob Wu](https://github.com/Rob--W), thanks!
-
-**English** | [中文](./README.zh_CN.md)
 
 ## Install
 
