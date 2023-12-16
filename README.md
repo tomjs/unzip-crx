@@ -60,8 +60,8 @@ unzip(crxFile).then(() => {
 
 ## Documentation
 
-- [paka.dev](https://paka.dev) 提供的 [API文档](https://paka.dev/npm/@tomjs/unzip-crx).
-- [unpkg.com](https://www.unpkg.com/) 提供的 [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts).
+- [API Documentation](https://paka.dev/npm/@tomjs/unzip-crx) provided by [paka.dev](https://paka.dev).
+- [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts) provided by [unpkg.com](https://www.unpkg.com).
 
 ## API
 
