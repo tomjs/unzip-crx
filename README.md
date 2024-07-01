@@ -29,7 +29,7 @@ yarn add @tomjs/unzip-crx
 With `npm`
 
 ```bash
-npm i @tomjs/unzip-crx
+npm add @tomjs/unzip-crx
 ```
 
 ## Example
@@ -60,7 +60,6 @@ unzip(crxFile).then(() => {
 
 ## Documentation
 
-- [API Documentation](https://paka.dev/npm/@tomjs/unzip-crx) provided by [paka.dev](https://paka.dev).
 - [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts) provided by [unpkg.com](https://www.unpkg.com).
 
 ## API
