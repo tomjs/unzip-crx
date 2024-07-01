@@ -1,6 +1,6 @@
 # @tomjs/unzip-crx
 
-[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://www.paka.dev/badges/v0/cute.svg)](https://www.paka.dev/npm/@tomjs/unzip-crx)
+[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://img.shields.io/badge/API-unpkg-orange)](https://www.paka.dev/npm/@tomjs/unzip-crx)
 
 [English](./README.md) | **中文**
 
