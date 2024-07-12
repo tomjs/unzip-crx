@@ -1,6 +1,6 @@
 # @tomjs/unzip-crx
 
-[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://img.shields.io/badge/API-unpkg-orange)](https://www.paka.dev/npm/@tomjs/unzip-crx)
+[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![jsDocs.io](https://img.shields.io/badge/jsDocs.io-reference-blue)](https://www.jsdocs.io/package/@tomjs/unzip-crx)
 
 **English** | [中文](./README.zh_CN.md)
 
@@ -14,21 +14,14 @@ And this [unzip-crx](https://github.com/peerigon/unzip-crx) is highly inspired b
 
 ## Install
 
-With `pnpm`
-
 ```bash
+# pnpm
 pnpm add @tomjs/unzip-crx
-```
 
-With `yarn`
-
-```bash
+# yarn
 yarn add @tomjs/unzip-crx
-```
 
-With `npm`
-
-```bash
+# npm
 npm add @tomjs/unzip-crx
 ```
 
@@ -60,6 +53,7 @@ unzip(crxFile).then(() => {
 
 ## Documentation
 
+- [API Document](https://www.jsdocs.io/package/@tomjs/unzip-crx) provided by [jsdocs.io](https://www.jsdocs.io).
 - [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts) provided by [unpkg.com](https://www.unpkg.com).
 
 ## API

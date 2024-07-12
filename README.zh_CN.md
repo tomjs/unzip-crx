@@ -1,6 +1,6 @@
 # @tomjs/unzip-crx
 
-[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![Docs](https://img.shields.io/badge/API-unpkg-orange)](https://www.paka.dev/npm/@tomjs/unzip-crx)
+[![npm](https://img.shields.io/npm/v/@tomjs/unzip-crx)](https://www.npmjs.com/package/@tomjs/unzip-crx) ![node-current (scoped)](https://img.shields.io/node/v/@tomjs/unzip-crx) ![NPM](https://img.shields.io/npm/l/@tomjs/unzip-crx) [![jsDocs.io](https://img.shields.io/badge/jsDocs.io-reference-blue)](https://www.jsdocs.io/package/@tomjs/unzip-crx)
 
 [English](./README.md) | **中文**
 
@@ -14,21 +14,14 @@
 
 ## 安装
 
-使用 `pnpm`
-
 ```bash
+# pnpm
 pnpm add @tomjs/unzip-crx
-```
 
-使用 `yarn`
-
-```bash
+# yarn
 yarn add @tomjs/unzip-crx
-```
 
-使用 `npm`
-
-```bash
+# npm
 npm add @tomjs/unzip-crx
 ```
 
@@ -60,6 +53,7 @@ unzip(crxFile).then(() => {
 
 ## 文档
 
+- [jsdocs.io](https://www.jsdocs.io) 提供的 [API 文档](https://www.jsdocs.io/package/@tomjs/unzip-crx).
 - [unpkg.com](https://www.unpkg.com/) 提供的 [index.d.ts](https://www.unpkg.com/browse/@tomjs/unzip-crx/dist/index.d.ts).
 
 ## API
